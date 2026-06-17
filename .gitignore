@@ -1,0 +1,4 @@
+__pycache__/
+.virtualenv/
+.streamlit/
+*.DS_Store
